@@ -1,5 +1,5 @@
-dataJson
 .vs/
 Debug/
 Release/
 obj/
+packages/
